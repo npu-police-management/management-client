@@ -4,6 +4,7 @@ https://github.com/WangMinan/management-client
 
 需要查看源码的可以问我要collaborators
 欢迎访问http://management_client.wangminan.me/#/login 查看呈现效果
+镜像站http://management_backup.wangminan.me/#/login
 
 暂时的数据都是mock的所以使劲造
 之后会不定期更新这个Markdown
